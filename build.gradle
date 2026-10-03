@@ -1,0 +1,9 @@
+// Root build file. Plugin versions are declared here once and applied without a
+// version in app/build.gradle, so there is exactly one place to bump them.
+// AGP 9.3.1 is the newest stable at time of writing and is what this machine's
+// Android Studio (AI-261, which reports agp 9.4.0-dev internally) expects.
+// It also needs Gradle 9.x — see gradle/wrapper/gradle-wrapper.properties. The
+// older 8.5.2 / Gradle 8.7 pairing cannot run on the JDK 25 that Studio bundles.
+plugins {
+    id 'com.android.application' version '9.3.1' apply false
+}
