@@ -1,0 +1,86 @@
+pygame 2.6.1 (SDL 2.28.4, Python 3.8.10)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+FOCAL_PX from simulator geometry: 790.3
+loading YOLO...
+INFO:  Found the required file in cache!  Carla/Maps/Nav/Town10HD_Opt.bin 
+INFO:  Found the required file in cache!  Carla/Maps/TM/Town10HD_Opt.bin 
+spawned 15 traffic vehicles
+lane model loaded: D:\adas\tools\scnn_lane\weights\scnn_lane.pt on cuda
+lane touch threshold: 1.13 m from centreline (vehicle half-width 1.08 m)
+depth model loaded: depth-anything/Depth-Anything-V2-Small-hf on cuda
+
+features: collision=ON  lanes=ON  depth-obstacles=ON  flow-obstacles=off
+NOTE: run generate_alerts.py for real voice alerts.
+
+W forward | S brake, then reverse when stopped | A/D steer
+P autopilot | R reset | L cycle speed limit | ESC quit
+Click the small pygame window for keyboard control.
+
+  frame     0    0.0 km/h  tracks  0  inf  466ms
+D:\adas\carlaenv\lib\site-packages\transformers\models\dinov2\modeling_dinov2.py:258: UserWarning: 1Torch was not compiled with flash attention. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\native\transformers\cuda\sdp_utils.cpp:555.)
+  context_layer = torch.nn.functional.scaled_dot_product_attention(
+  frame    20    0.1 km/h  tracks  0  inf   10ms
+  frame    40    0.0 km/h  tracks  1  inf   10ms
+  frame    60    0.0 km/h  tracks  1  inf   12ms
+  frame    80    0.0 km/h  tracks  1  inf   12ms
+  frame   100    2.1 km/h  tracks  1  inf   10ms
+  frame   120   20.5 km/h  tracks  2  inf   10ms
+  frame   140   34.8 km/h  tracks  3  inf   10ms
+  >>> LANE_SOLID
+t=  7.10s  LANE_SOLID        crossed solid line on right
+  frame   160   45.7 km/h  tracks  9  inf   11ms
+  frame   180   42.7 km/h  tracks  4  inf   10ms
+  frame   200   46.6 km/h  tracks  4  inf   10ms
+  >>> COLLISION_WARN
+t= 10.75s  COLLISION_WARN    ttc=1.82 d=11.9 close=6.5 id=32
+  >>> COLLISION_URGENT
+t= 11.00s  COLLISION_URGENT  ttc=1.55 d=10.2 close=6.6 id=32
+  frame   220   56.2 km/h  tracks  9  inf   11ms
+  frame   240   39.6 km/h  tracks  3  inf   10ms
+  >>> LANE_SOLID
+t= 12.60s  LANE_SOLID        crossed solid line on left
+  frame   260   38.3 km/h  tracks  3  inf   10ms
+  frame   280   25.7 km/h  tracks  3  inf   10ms
+  frame   300   35.8 km/h  tracks  5  inf   11ms
+  frame   320   42.0 km/h  tracks  2  inf   10ms
+  frame   340   39.6 km/h  tracks  3  inf   11ms
+  >>> COLLISION_WARN
+t= 17.90s  COLLISION_WARN    ttc=2.01 d=20.6 close=10.3 id=76
+  frame   360   39.7 km/h  tracks  5  inf   15ms
+  >>> COLLISION_URGENT
+t= 18.70s  COLLISION_URGENT  ttc=1.44 d=12.5 close=8.6 id=81
+  >>> LANE_SOLID
+t= 18.75s  LANE_SOLID        crossed solid line on right
+  frame   380   26.7 km/h  tracks  2  inf   10ms
+  frame   400   26.2 km/h  tracks  2  inf   20ms
+  frame   420   36.1 km/h  tracks  6  inf   14ms
+  frame   440   46.6 km/h  tracks  1  inf   14ms
+  frame   460   57.0 km/h  tracks  0  inf   13ms
+  frame   480   53.9 km/h  tracks  0  inf   10ms
+  >>> SPEED_LIMIT
+t= 24.05s  SPEED_LIMIT       ego=14.7 limit=13.9
+  frame   500   34.8 km/h  tracks  1  inf   19ms
+  frame   520   30.3 km/h  tracks  0  inf   10ms
+  >>> LANE_SOLID
+t= 27.00s  LANE_SOLID        crossed solid line on left
+  frame   540   32.1 km/h  tracks  0  inf   10ms
+  frame   560   37.4 km/h  tracks  0  inf   15ms
+
+frames=563  alerts=9
+[trip_summary] Gemini call failed (HTTP 429), using fallback tips
+
+===== TRIP SUMMARY =====
+Duration: 82s
+Total warnings: 9
+  Solid line:       4
+  Collision:        2
+  Urgent collision: 2
+Driving score: 5.7/10
+Recommendations:
+  - You had urgent collision warnings - increase following distance so you have more time to react.
+  - Keep more space from the vehicle ahead to cut down on collision warnings.
+  - Stay centered in your lane - you crossed solid lane markings during this trip.
+=========================
+
+trip history -> D:\adas\tools\trip_history.json
+log -> carla_live_log.csv
