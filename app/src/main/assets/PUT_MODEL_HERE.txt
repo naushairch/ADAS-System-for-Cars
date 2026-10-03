@@ -1,0 +1,6 @@
+Place yolov8n_float32.tflite in this folder.
+
+  pip install ultralytics
+  yolo export model=yolov8n.pt format=tflite imgsz=640
+
+then rename the exported file to exactly: yolov8n_float32.tflite
