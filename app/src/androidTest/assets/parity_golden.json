@@ -1,0 +1,7684 @@
+{
+ "focal_px": 750.0,
+ "frame_width": 1280,
+ "frame_height": 720,
+ "step_ms": 50,
+ "start_ms": 100000,
+ "scenarios": [
+  {
+   "name": "approaching_stopped_car",
+   "frames": [
+    {
+     "dets": [
+      {
+       "box": [
+        631.796875,
+        389.02734375000006,
+        648.203125,
+        402.97265625000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        631.6930379746835,
+        388.93908227848107,
+        648.3069620253165,
+        403.06091772151905
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        631.5865384615385,
+        388.84855769230774,
+        648.4134615384615,
+        403.1514423076924
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        631.4772727272727,
+        388.75568181818187,
+        648.5227272727273,
+        403.24431818181824
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        631.3651315789474,
+        388.6603618421053,
+        648.6348684210526,
+        403.3396381578948
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        631.25,
+        388.56250000000006,
+        648.75,
+        403.43750000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        631.1317567567568,
+        388.4619932432433,
+        648.8682432432432,
+        403.53800675675683
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        631.0102739726027,
+        388.3587328767124,
+        648.9897260273973,
+        403.6412671232877
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        630.8854166666666,
+        388.25260416666674,
+        649.1145833333334,
+        403.74739583333337
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        630.7570422535211,
+        388.143485915493,
+        649.2429577464789,
+        403.8565140845071
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        630.625,
+        388.03125000000006,
+        649.375,
+        403.96875000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        630.4891304347826,
+        387.91576086956525,
+        649.5108695652174,
+        404.08423913043487
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        630.3492647058823,
+        387.79687500000006,
+        649.6507352941177,
+        404.20312500000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        630.205223880597,
+        387.67444029850753,
+        649.794776119403,
+        404.3255597014926
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        630.0568181818181,
+        387.5482954545455,
+        649.9431818181819,
+        404.4517045454546
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        629.9038461538462,
+        387.4182692307693,
+        650.0961538461538,
+        404.58173076923083
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        629.74609375,
+        387.28417968750006,
+        650.25390625,
+        404.71582031250006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        629.5833333333334,
+        387.14583333333337,
+        650.4166666666666,
+        404.85416666666674
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        629.4153225806451,
+        387.00302419354847,
+        650.5846774193549,
+        404.99697580645164
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        629.2418032786885,
+        386.8555327868853,
+        650.7581967213115,
+        405.1444672131148
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        629.0625,
+        386.70312500000006,
+        650.9375,
+        405.29687500000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        628.8771186440678,
+        386.54555084745766,
+        651.1228813559322,
+        405.45444915254245
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        628.6853448275862,
+        386.3825431034483,
+        651.3146551724138,
+        405.6174568965518
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        628.4868421052631,
+        386.21381578947376,
+        651.5131578947369,
+        405.78618421052636
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        628.28125,
+        386.03906250000006,
+        651.71875,
+        405.96093750000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        628.0681818181819,
+        385.8579545454546,
+        651.9318181818181,
+        406.1420454545455
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        627.8472222222222,
+        385.67013888888897,
+        652.1527777777778,
+        406.32986111111114
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        627.6179245283018,
+        385.4752358490567,
+        652.3820754716982,
+        406.52476415094344
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        627.3798076923077,
+        385.2728365384616,
+        652.6201923076923,
+        406.7271634615385
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        627.1323529411765,
+        385.06250000000006,
+        652.8676470588235,
+        406.93750000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        626.875,
+        384.84375000000006,
+        653.125,
+        407.15625000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        626.6071428571429,
+        384.6160714285715,
+        653.3928571428571,
+        407.3839285714286
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        626.328125,
+        384.37890625000006,
+        653.671875,
+        407.62109375000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        626.0372340425532,
+        384.1316489361703,
+        653.9627659574468,
+        407.86835106382983
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        625.7336956521739,
+        383.87364130434787,
+        654.2663043478261,
+        408.12635869565224
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        625.4166666666666,
+        383.60416666666674,
+        654.5833333333334,
+        408.39583333333337
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        625.0852272727273,
+        383.32244318181824,
+        654.9147727272727,
+        408.67755681818187
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        624.7383720930233,
+        383.02761627906983,
+        655.2616279069767,
+        408.9723837209303
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        624.375,
+        382.71875000000006,
+        655.625,
+        409.28125000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        623.9939024390244,
+        382.39481707317077,
+        656.0060975609756,
+        409.60518292682934
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        623.59375,
+        382.05468750000006,
+        656.40625,
+        409.94531250000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        623.1730769230769,
+        381.6971153846154,
+        656.8269230769231,
+        410.3028846153847
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        622.7302631578947,
+        381.3207236842106,
+        657.2697368421053,
+        410.67927631578954
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        622.2635135135135,
+        380.92398648648657,
+        657.7364864864865,
+        411.07601351351354
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        621.7708333333334,
+        380.50520833333337,
+        658.2291666666666,
+        411.49479166666674
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        621.25,
+        380.06250000000006,
+        658.75,
+        411.93750000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        620.6985294117648,
+        379.59375000000006,
+        659.3014705882352,
+        412.40625000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        620.1136363636364,
+        379.096590909091,
+        659.8863636363636,
+        412.9034090909091
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        619.4921875,
+        378.56835937500006,
+        660.5078125,
+        413.43164062500006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        618.8306451612904,
+        378.0060483870968,
+        661.1693548387096,
+        413.9939516129033
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        618.125,
+        377.40625000000006,
+        661.875,
+        414.59375000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        617.3706896551724,
+        376.7650862068966,
+        662.6293103448276,
+        415.2349137931035
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        616.5625,
+        376.07812500000006,
+        663.4375,
+        415.92187500000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        615.6944444444445,
+        375.3402777777778,
+        664.3055555555555,
+        416.6597222222223
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        614.7596153846154,
+        374.54567307692315,
+        665.2403846153846,
+        417.45432692307696
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        613.75,
+        373.68750000000006,
+        666.25,
+        418.31250000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        612.65625,
+        372.75781250000006,
+        667.34375,
+        419.24218750000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        611.4673913043479,
+        371.7472826086957,
+        668.5326086956521,
+        420.25271739130443
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        610.1704545454545,
+        370.64488636363643,
+        669.8295454545455,
+        421.3551136363637
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        608.75,
+        369.43750000000006,
+        671.25,
+        422.56250000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        607.1875,
+        368.10937500000006,
+        672.8125,
+        423.89062500000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        605.4605263157895,
+        366.6414473684211,
+        674.5394736842105,
+        425.358552631579
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        603.5416666666666,
+        365.01041666666674,
+        676.4583333333334,
+        426.98958333333337
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        601.3970588235294,
+        363.18750000000006,
+        678.6029411764706,
+        428.81250000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        598.984375,
+        361.13671875000006,
+        681.015625,
+        430.86328125000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        596.25,
+        358.81250000000006,
+        683.75,
+        433.18750000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        593.125,
+        356.15625000000006,
+        686.875,
+        435.84375000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        589.5192307692307,
+        353.0913461538462,
+        690.4807692307693,
+        438.9086538461539
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        585.3125,
+        349.51562500000006,
+        694.6875,
+        442.48437500000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        580.3409090909091,
+        345.2897727272728,
+        699.6590909090909,
+        446.7102272727273
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        574.375,
+        340.21875000000006,
+        705.625,
+        451.78125000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        567.0833333333334,
+        334.02083333333337,
+        712.9166666666666,
+        457.97916666666674
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        557.96875,
+        326.27343750000006,
+        722.03125,
+        465.72656250000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        546.25,
+        316.31250000000006,
+        733.75,
+        475.68750000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        530.625,
+        303.03125000000006,
+        749.375,
+        488.96875000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    }
+   ],
+   "expected": [
+    {
+     "frame": 28,
+     "alert": "COLLISION_WARN"
+    },
+    {
+     "frame": 52,
+     "alert": "COLLISION_URGENT"
+    }
+   ]
+  },
+  {
+   "name": "oncoming_vehicle",
+   "frames": [
+    {
+     "dets": [
+      {
+       "box": [
+        633.4375,
+        390.42187500000006,
+        646.5625,
+        401.57812500000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        633.3375634517766,
+        390.3369289340102,
+        646.6624365482234,
+        401.6630710659899
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        633.2345360824743,
+        390.24935567010317,
+        646.7654639175257,
+        401.75064432989694
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        633.1282722513089,
+        390.15903141361264,
+        646.8717277486911,
+        401.8409685863875
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        633.0186170212766,
+        390.06582446808517,
+        646.9813829787234,
+        401.93417553191495
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        632.9054054054054,
+        389.96959459459464,
+        647.0945945945946,
+        402.0304054054055
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        632.7884615384615,
+        389.8701923076924,
+        647.2115384615385,
+        402.12980769230774
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        632.6675977653631,
+        389.7674581005587,
+        647.3324022346369,
+        402.2325418994414
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        632.5426136363636,
+        389.6612215909091,
+        647.4573863636364,
+        402.338778409091
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        632.4132947976879,
+        389.5513005780347,
+        647.5867052023121,
+        402.4486994219654
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        632.2794117647059,
+        389.43750000000006,
+        647.7205882352941,
+        402.56250000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        632.1407185628742,
+        389.3196107784432,
+        647.8592814371258,
+        402.68038922155694
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        631.9969512195122,
+        389.19740853658544,
+        648.0030487804878,
+        402.8025914634147
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        631.8478260869565,
+        389.0706521739131,
+        648.1521739130435,
+        402.929347826087
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        631.6930379746835,
+        388.93908227848107,
+        648.3069620253165,
+        403.06091772151905
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        631.5322580645161,
+        388.8024193548388,
+        648.4677419354839,
+        403.19758064516134
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        631.3651315789474,
+        388.6603618421053,
+        648.6348684210526,
+        403.3396381578948
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        631.1912751677852,
+        388.5125838926175,
+        648.8087248322148,
+        403.4874161073826
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        631.0102739726027,
+        388.3587328767124,
+        648.9897260273973,
+        403.6412671232877
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        630.8216783216783,
+        388.1984265734266,
+        649.1783216783217,
+        403.8015734265735
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        630.625,
+        388.03125000000006,
+        649.375,
+        403.96875000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        630.4197080291971,
+        387.8567518248176,
+        649.5802919708029,
+        404.1432481751825
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        630.205223880597,
+        387.67444029850753,
+        649.794776119403,
+        404.3255597014926
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        629.9809160305343,
+        387.48377862595424,
+        650.0190839694657,
+        404.51622137404587
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        629.74609375,
+        387.28417968750006,
+        650.25390625,
+        404.71582031250006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        629.5,
+        387.07500000000005,
+        650.5,
+        404.92500000000007
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        629.2418032786885,
+        386.8555327868853,
+        650.7581967213115,
+        405.1444672131148
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        628.9705882352941,
+        386.62500000000006,
+        651.0294117647059,
+        405.37500000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        628.6853448275862,
+        386.3825431034483,
+        651.3146551724138,
+        405.6174568965518
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        628.3849557522124,
+        386.1272123893806,
+        651.6150442477876,
+        405.8727876106195
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        628.0681818181819,
+        385.8579545454546,
+        651.9318181818181,
+        406.1420454545455
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        627.7336448598131,
+        385.57359813084116,
+        652.2663551401869,
+        406.42640186915895
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        627.3798076923077,
+        385.2728365384616,
+        652.6201923076923,
+        406.7271634615385
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        627.0049504950495,
+        384.95420792079216,
+        652.9950495049505,
+        407.04579207920796
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        626.6071428571429,
+        384.6160714285715,
+        653.3928571428571,
+        407.3839285714286
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        626.1842105263158,
+        384.2565789473685,
+        653.8157894736842,
+        407.7434210526316
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        625.7336956521739,
+        383.87364130434787,
+        654.2663043478261,
+        408.12635869565224
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        625.2528089887641,
+        383.4648876404495,
+        654.7471910112359,
+        408.5351123595506
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        624.7383720930233,
+        383.02761627906983,
+        655.2616279069767,
+        408.9723837209303
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        624.1867469879518,
+        382.5587349397591,
+        655.8132530120482,
+        409.441265060241
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        623.59375,
+        382.05468750000006,
+        656.40625,
+        409.94531250000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        622.9545454545455,
+        381.5113636363637,
+        657.0454545454545,
+        410.48863636363643
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        622.2635135135135,
+        380.92398648648657,
+        657.7364864864865,
+        411.07601351351354
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        621.5140845070423,
+        380.286971830986,
+        658.4859154929577,
+        411.71302816901414
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        620.6985294117648,
+        379.59375000000006,
+        659.3014705882352,
+        412.40625000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        619.8076923076923,
+        378.8365384615385,
+        660.1923076923077,
+        413.1634615384616
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        618.8306451612904,
+        378.0060483870968,
+        661.1693548387096,
+        413.9939516129033
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        617.7542372881356,
+        377.0911016949153,
+        662.2457627118644,
+        414.9088983050848
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        616.5625,
+        376.07812500000006,
+        663.4375,
+        415.92187500000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        615.2358490566038,
+        374.9504716981133,
+        664.7641509433962,
+        417.0495283018868
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        613.75,
+        373.68750000000006,
+        666.25,
+        418.31250000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        612.0744680851063,
+        372.2632978723405,
+        667.9255319148937,
+        419.7367021276596
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        610.1704545454545,
+        370.64488636363643,
+        669.8295454545455,
+        421.3551136363637
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        607.9878048780488,
+        368.78963414634154,
+        672.0121951219512,
+        423.2103658536586
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        605.4605263157895,
+        366.6414473684211,
+        674.5394736842105,
+        425.358552631579
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        602.5,
+        364.12500000000006,
+        677.5,
+        427.87500000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        598.984375,
+        361.13671875000006,
+        681.015625,
+        430.86328125000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        594.7413793103449,
+        357.53017241379314,
+        685.2586206896551,
+        434.469827586207
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        589.5192307692307,
+        353.0913461538462,
+        690.4807692307693,
+        438.9086538461539
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        582.9347826086956,
+        347.49456521739137,
+        697.0652173913044,
+        444.50543478260875
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    }
+   ],
+   "expected": []
+  },
+  {
+   "name": "roadside_parked_car",
+   "frames": [
+    {
+     "dets": [
+      {
+       "box": [
+        889.0625,
+        386.70312500000006,
+        910.9375,
+        405.29687500000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        888.8771186440678,
+        386.54555084745766,
+        911.1228813559322,
+        405.45444915254245
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        888.6853448275862,
+        386.3825431034483,
+        911.3146551724138,
+        405.6174568965518
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        888.4868421052631,
+        386.21381578947376,
+        911.5131578947369,
+        405.78618421052636
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        888.28125,
+        386.03906250000006,
+        911.71875,
+        405.96093750000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        888.0681818181819,
+        385.8579545454546,
+        911.9318181818181,
+        406.1420454545455
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        887.8472222222222,
+        385.67013888888897,
+        912.1527777777778,
+        406.32986111111114
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        887.6179245283018,
+        385.4752358490567,
+        912.3820754716982,
+        406.52476415094344
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        887.3798076923077,
+        385.2728365384616,
+        912.6201923076923,
+        406.7271634615385
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        887.1323529411765,
+        385.06250000000006,
+        912.8676470588235,
+        406.93750000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        886.875,
+        384.84375000000006,
+        913.125,
+        407.15625000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        886.6071428571429,
+        384.6160714285715,
+        913.3928571428571,
+        407.3839285714286
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        886.328125,
+        384.37890625000006,
+        913.671875,
+        407.62109375000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        886.0372340425532,
+        384.1316489361703,
+        913.9627659574468,
+        407.86835106382983
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        885.7336956521739,
+        383.87364130434787,
+        914.2663043478261,
+        408.12635869565224
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        885.4166666666666,
+        383.60416666666674,
+        914.5833333333334,
+        408.39583333333337
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        885.0852272727273,
+        383.32244318181824,
+        914.9147727272727,
+        408.67755681818187
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        884.7383720930233,
+        383.02761627906983,
+        915.2616279069767,
+        408.9723837209303
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        884.375,
+        382.71875000000006,
+        915.625,
+        409.28125000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        883.9939024390244,
+        382.39481707317077,
+        916.0060975609756,
+        409.60518292682934
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        883.59375,
+        382.05468750000006,
+        916.40625,
+        409.94531250000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        883.1730769230769,
+        381.6971153846154,
+        916.8269230769231,
+        410.3028846153847
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        882.7302631578947,
+        381.3207236842106,
+        917.2697368421053,
+        410.67927631578954
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        882.2635135135135,
+        380.92398648648657,
+        917.7364864864865,
+        411.07601351351354
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        881.7708333333334,
+        380.50520833333337,
+        918.2291666666666,
+        411.49479166666674
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        881.25,
+        380.06250000000006,
+        918.75,
+        411.93750000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        880.6985294117648,
+        379.59375000000006,
+        919.3014705882352,
+        412.40625000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        880.1136363636364,
+        379.096590909091,
+        919.8863636363636,
+        412.9034090909091
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        879.4921875,
+        378.56835937500006,
+        920.5078125,
+        413.43164062500006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        878.8306451612904,
+        378.0060483870968,
+        921.1693548387096,
+        413.9939516129033
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        878.125,
+        377.40625000000006,
+        921.875,
+        414.59375000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        877.3706896551724,
+        376.7650862068966,
+        922.6293103448276,
+        415.2349137931035
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        876.5625,
+        376.07812500000006,
+        923.4375,
+        415.92187500000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        875.6944444444445,
+        375.3402777777778,
+        924.3055555555555,
+        416.6597222222223
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        874.7596153846154,
+        374.54567307692315,
+        925.2403846153846,
+        417.45432692307696
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        873.75,
+        373.68750000000006,
+        926.25,
+        418.31250000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        872.65625,
+        372.75781250000006,
+        927.34375,
+        419.24218750000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        871.4673913043479,
+        371.7472826086957,
+        928.5326086956521,
+        420.25271739130443
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        870.1704545454545,
+        370.64488636363643,
+        929.8295454545455,
+        421.3551136363637
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        868.75,
+        369.43750000000006,
+        931.25,
+        422.56250000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        867.1875,
+        368.10937500000006,
+        932.8125,
+        423.89062500000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        865.4605263157895,
+        366.6414473684211,
+        934.5394736842105,
+        425.358552631579
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        863.5416666666666,
+        365.01041666666674,
+        936.4583333333334,
+        426.98958333333337
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        861.3970588235294,
+        363.18750000000006,
+        938.6029411764706,
+        428.81250000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        858.984375,
+        361.13671875000006,
+        941.015625,
+        430.86328125000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        856.25,
+        358.81250000000006,
+        943.75,
+        433.18750000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        853.125,
+        356.15625000000006,
+        946.875,
+        435.84375000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        849.5192307692307,
+        353.0913461538462,
+        950.4807692307693,
+        438.9086538461539
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        845.3125,
+        349.51562500000006,
+        954.6875,
+        442.48437500000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        840.3409090909091,
+        345.2897727272728,
+        959.6590909090909,
+        446.7102272727273
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    }
+   ],
+   "expected": []
+  },
+  {
+   "name": "adjacent_lane_vehicle",
+   "frames": [
+    {
+     "dets": [
+      {
+       "box": [
+        661.875,
+        389.80208333333337,
+        676.4583333333333,
+        402.19791666666674
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        662.1207865168539,
+        389.7324438202248,
+        676.8679775280899,
+        402.26755617977534
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        662.3721590909091,
+        389.6612215909091,
+        677.2869318181819,
+        402.338778409091
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        662.6293103448277,
+        389.5883620689656,
+        677.7155172413793,
+        402.41163793103453
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        662.892441860465,
+        389.51380813953494,
+        678.1540697674419,
+        402.48619186046517
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        663.1617647058823,
+        389.43750000000006,
+        678.6029411764706,
+        402.56250000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        663.4375,
+        389.35937500000006,
+        679.0625,
+        402.64062500000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        663.7198795180724,
+        389.27936746987956,
+        679.5331325301205,
+        402.72063253012055
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        664.0091463414634,
+        389.19740853658544,
+        680.015243902439,
+        402.8025914634147
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        664.3055555555555,
+        389.113425925926,
+        680.5092592592592,
+        402.88657407407413
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        664.609375,
+        389.02734375000006,
+        681.015625,
+        402.97265625000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        664.9208860759494,
+        388.93908227848107,
+        681.5348101265823,
+        403.06091772151905
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        665.2403846153846,
+        388.84855769230774,
+        682.0673076923077,
+        403.1514423076924
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        665.5681818181819,
+        388.75568181818187,
+        682.6136363636364,
+        403.24431818181824
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        665.9046052631579,
+        388.6603618421053,
+        683.1743421052631,
+        403.3396381578948
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        666.25,
+        388.56250000000006,
+        683.75,
+        403.43750000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        666.6047297297298,
+        388.4619932432433,
+        684.3412162162163,
+        403.53800675675683
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        666.9691780821918,
+        388.3587328767124,
+        684.9486301369864,
+        403.6412671232877
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        667.34375,
+        388.25260416666674,
+        685.5729166666667,
+        403.74739583333337
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        667.7288732394367,
+        388.143485915493,
+        686.2147887323944,
+        403.8565140845071
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        668.125,
+        388.03125000000006,
+        686.875,
+        403.96875000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        668.5326086956521,
+        387.91576086956525,
+        687.5543478260869,
+        404.08423913043487
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        668.9522058823529,
+        387.79687500000006,
+        688.2536764705883,
+        404.20312500000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        669.384328358209,
+        387.67444029850753,
+        688.973880597015,
+        404.3255597014926
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        669.8295454545454,
+        387.5482954545455,
+        689.7159090909091,
+        404.4517045454546
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        670.2884615384615,
+        387.4182692307693,
+        690.4807692307692,
+        404.58173076923083
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        670.76171875,
+        387.28417968750006,
+        691.26953125,
+        404.71582031250006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        671.25,
+        387.14583333333337,
+        692.0833333333333,
+        404.85416666666674
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        671.7540322580645,
+        387.00302419354847,
+        692.9233870967743,
+        404.99697580645164
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        672.2745901639344,
+        386.8555327868853,
+        693.7909836065573,
+        405.1444672131148
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        672.8125,
+        386.70312500000006,
+        694.6875,
+        405.29687500000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        673.3686440677966,
+        386.54555084745766,
+        695.6144067796611,
+        405.45444915254245
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        673.9439655172413,
+        386.3825431034483,
+        696.573275862069,
+        405.6174568965518
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        674.5394736842105,
+        386.21381578947376,
+        697.5657894736843,
+        405.78618421052636
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        675.15625,
+        386.03906250000006,
+        698.59375,
+        405.96093750000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        675.7954545454546,
+        385.8579545454546,
+        699.6590909090909,
+        406.1420454545455
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        676.4583333333333,
+        385.67013888888897,
+        700.7638888888889,
+        406.32986111111114
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        677.1462264150942,
+        385.4752358490567,
+        701.9103773584906,
+        406.52476415094344
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        677.860576923077,
+        385.2728365384616,
+        703.1009615384615,
+        406.7271634615385
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        678.6029411764706,
+        385.06250000000006,
+        704.3382352941177,
+        406.93750000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        679.375,
+        384.84375000000006,
+        705.625,
+        407.15625000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        680.1785714285714,
+        384.6160714285715,
+        706.9642857142857,
+        407.3839285714286
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        681.015625,
+        384.37890625000006,
+        708.359375,
+        407.62109375000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        681.8882978723404,
+        384.1316489361703,
+        709.813829787234,
+        407.86835106382983
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        682.7989130434783,
+        383.87364130434787,
+        711.3315217391305,
+        408.12635869565224
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        683.75,
+        383.60416666666674,
+        712.9166666666667,
+        408.39583333333337
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        684.7443181818181,
+        383.32244318181824,
+        714.5738636363636,
+        408.67755681818187
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        685.7848837209302,
+        383.02761627906983,
+        716.3081395348837,
+        408.9723837209303
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        686.875,
+        382.71875000000006,
+        718.125,
+        409.28125000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        688.0182926829268,
+        382.39481707317077,
+        720.030487804878,
+        409.60518292682934
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        689.21875,
+        382.05468750000006,
+        722.03125,
+        409.94531250000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        690.4807692307692,
+        381.6971153846154,
+        724.1346153846154,
+        410.3028846153847
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        691.8092105263157,
+        381.3207236842106,
+        726.3486842105264,
+        410.67927631578954
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        693.2094594594595,
+        380.92398648648657,
+        728.6824324324324,
+        411.07601351351354
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        694.6875,
+        380.50520833333337,
+        731.1458333333333,
+        411.49479166666674
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        696.25,
+        380.06250000000006,
+        733.75,
+        411.93750000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        697.904411764706,
+        379.59375000000006,
+        736.5073529411765,
+        412.40625000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        699.6590909090909,
+        379.096590909091,
+        739.4318181818181,
+        412.9034090909091
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        701.5234375,
+        378.56835937500006,
+        742.5390625,
+        413.43164062500006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        703.508064516129,
+        378.0060483870968,
+        745.8467741935483,
+        413.9939516129033
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        705.625,
+        377.40625000000006,
+        749.375,
+        414.59375000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        707.8879310344828,
+        376.7650862068966,
+        753.1465517241379,
+        415.2349137931035
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        710.3125,
+        376.07812500000006,
+        757.1875,
+        415.92187500000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        712.9166666666666,
+        375.3402777777778,
+        761.5277777777777,
+        416.6597222222223
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        715.7211538461538,
+        374.54567307692315,
+        766.2019230769231,
+        417.45432692307696
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        718.75,
+        373.68750000000006,
+        771.25,
+        418.31250000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        722.03125,
+        372.75781250000006,
+        776.71875,
+        419.24218750000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        725.5978260869566,
+        371.7472826086957,
+        782.6630434782609,
+        420.25271739130443
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        729.4886363636363,
+        370.64488636363643,
+        789.1477272727273,
+        421.3551136363637
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        733.75,
+        369.43750000000006,
+        796.25,
+        422.56250000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        738.4375,
+        368.10937500000006,
+        804.0625,
+        423.89062500000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        743.6184210526316,
+        366.6414473684211,
+        812.6973684210526,
+        425.358552631579
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        749.375,
+        365.01041666666674,
+        822.2916666666667,
+        426.98958333333337
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        755.8088235294117,
+        363.18750000000006,
+        833.0147058823529,
+        428.81250000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        763.046875,
+        361.13671875000006,
+        845.078125,
+        430.86328125000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        771.25,
+        358.81250000000006,
+        858.75,
+        433.18750000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        780.625,
+        356.15625000000006,
+        874.375,
+        435.84375000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        791.4423076923076,
+        353.0913461538462,
+        892.4038461538462,
+        438.9086538461539
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        804.0625,
+        349.51562500000006,
+        913.4375,
+        442.48437500000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        818.9772727272727,
+        345.2897727272728,
+        938.2954545454545,
+        446.7102272727273
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        836.875,
+        340.21875000000006,
+        968.125,
+        451.78125000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        858.7500000000001,
+        334.02083333333337,
+        1004.5833333333334,
+        457.97916666666674
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        886.09375,
+        326.27343750000006,
+        1050.15625,
+        465.72656250000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 30.0,
+     "speed_limit_ms": 33.3,
+     "obstacle_dist": null,
+     "lane_cross": null
+    }
+   ],
+   "expected": []
+  },
+  {
+   "name": "speeding",
+   "frames": [
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 20.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    }
+   ],
+   "expected": [
+    {
+     "frame": 24,
+     "alert": "SPEED_LIMIT"
+    }
+   ]
+  },
+  {
+   "name": "obstacle_approach",
+   "frames": [
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 40.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 39.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 39.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 38.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 38.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 37.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 37.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 36.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 36.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 35.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 35.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 34.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 34.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 33.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 33.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 32.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 32.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 31.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 31.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 30.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 30.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 29.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 29.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 28.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 28.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 27.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 27.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 26.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 26.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 25.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 25.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 24.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 24.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 23.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 23.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 22.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 22.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 21.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 21.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 20.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 20.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 19.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 19.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 18.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 18.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 17.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 17.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 16.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 16.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 15.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 15.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 14.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 14.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 13.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 13.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 12.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 12.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 11.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 11.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 10.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 10.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 9.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 9.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 8.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 8.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 7.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 7.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 6.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 6.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 5.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 5.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 4.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 4.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 3.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 3.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 2.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 10.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 2.0,
+     "lane_cross": null
+    }
+   ],
+   "expected": [
+    {
+     "frame": 36,
+     "alert": "COLLISION_WARN"
+    },
+    {
+     "frame": 56,
+     "alert": "COLLISION_URGENT"
+    }
+   ]
+  },
+  {
+   "name": "obstacle_retreating",
+   "frames": [
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 8.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 8.3,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 8.6,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 8.9,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 9.2,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 9.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 9.8,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 10.1,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 10.4,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 10.7,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 11.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 11.3,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 11.6,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 11.9,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 12.2,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 12.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 12.8,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 13.1,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 13.4,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 13.7,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 14.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 14.3,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 14.6,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 14.9,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 15.2,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 15.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 15.8,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 16.1,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 16.4,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 16.7,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 17.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 17.3,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 17.6,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 17.9,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 18.2,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 18.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 18.8,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 19.1,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 19.4,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 19.7,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 20.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 20.3,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 20.6,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 20.9,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 21.2,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 21.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 21.8,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 22.1,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 22.4,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 22.7,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 23.0,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 23.3,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 23.6,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 23.9,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 24.2,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 24.5,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 24.8,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 25.1,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 25.4,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 3.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": 25.7,
+     "lane_cross": null
+    }
+   ],
+   "expected": []
+  },
+  {
+   "name": "lane_crossing",
+   "frames": [
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": "left"
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [],
+     "ego_speed_ms": 15.0,
+     "speed_limit_ms": 27.8,
+     "obstacle_dist": null,
+     "lane_cross": null
+    }
+   ],
+   "expected": [
+    {
+     "frame": 10,
+     "alert": "LANE_SOLID"
+    }
+   ]
+  },
+  {
+   "name": "stop_start_traffic",
+   "frames": [
+    {
+     "dets": [
+      {
+       "box": [
+        530.625,
+        303.03125000000006,
+        749.375,
+        488.96875000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        530.2591973244147,
+        302.7203177257526,
+        749.7408026755853,
+        489.27968227424753
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        529.8909395973154,
+        302.4072986577182,
+        750.1090604026846,
+        489.59270134228194
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        529.5202020202021,
+        302.09217171717177,
+        750.4797979797979,
+        489.90782828282835
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        529.1469594594595,
+        301.7749155405406,
+        750.8530405405405,
+        490.22508445945954
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        528.771186440678,
+        301.45550847457633,
+        751.228813559322,
+        490.5444915254238
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        528.3928571428571,
+        301.1339285714286,
+        751.6071428571429,
+        490.8660714285715
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        528.0119453924915,
+        300.8101535836178,
+        751.9880546075085,
+        491.1898464163823
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        527.6284246575342,
+        300.48416095890417,
+        752.3715753424658,
+        491.51583904109594
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        527.2422680412371,
+        300.1559278350516,
+        752.7577319587629,
+        491.8440721649485
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        526.8534482758621,
+        299.8254310344828,
+        753.1465517241379,
+        492.1745689655173
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        526.461937716263,
+        299.4926470588236,
+        753.538062283737,
+        492.5073529411765
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        526.0677083333334,
+        299.15755208333337,
+        753.9322916666666,
+        492.84244791666674
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        525.670731707317,
+        298.82012195121956,
+        754.329268292683,
+        493.17987804878055
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        525.270979020979,
+        298.4803321678322,
+        754.729020979021,
+        493.5196678321679
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        524.8684210526316,
+        298.1381578947369,
+        755.1315789473684,
+        493.86184210526324
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        524.463028169014,
+        297.793573943662,
+        755.536971830986,
+        494.2064260563381
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        524.0547703180212,
+        297.4465547703181,
+        755.9452296819788,
+        494.55344522968204
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        523.6436170212766,
+        297.09707446808517,
+        756.3563829787234,
+        494.90292553191495
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        523.229537366548,
+        296.7451067615659,
+        756.770462633452,
+        495.2548932384342
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        522.8125,
+        296.39062500000006,
+        757.1875,
+        495.60937500000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        522.3924731182796,
+        296.0336021505377,
+        757.6075268817204,
+        495.9663978494624
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        521.9694244604316,
+        295.674010791367,
+        758.0305755395684,
+        496.32598920863313
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        521.543321299639,
+        295.3118231046932,
+        758.456678700361,
+        496.6881768953069
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        521.1141304347826,
+        294.94701086956525,
+        758.8858695652174,
+        497.05298913043487
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        520.6818181818182,
+        294.5795454545455,
+        759.3181818181818,
+        497.4204545454546
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        520.2463503649635,
+        294.20939781021906,
+        759.7536496350365,
+        497.79060218978105
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        519.8076923076923,
+        293.8365384615385,
+        760.1923076923077,
+        498.1634615384616
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        519.3658088235294,
+        293.46093750000006,
+        760.6341911764706,
+        498.53906250000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        518.9206642066421,
+        293.0825645756458,
+        761.0793357933579,
+        498.9174354243543
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        518.4722222222222,
+        292.70138888888897,
+        761.5277777777778,
+        499.29861111111114
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        518.0204460966543,
+        292.3173791821562,
+        761.9795539033457,
+        499.68262081784394
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        517.5652985074627,
+        291.9305037313434,
+        762.4347014925373,
+        500.06949626865674
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        517.1067415730337,
+        291.5407303370787,
+        762.8932584269663,
+        500.45926966292143
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        516.6447368421053,
+        291.14802631578954,
+        763.3552631578947,
+        500.8519736842106
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        516.1792452830189,
+        290.7523584905661,
+        763.8207547169811,
+        501.247641509434
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        515.7102272727273,
+        290.35369318181824,
+        764.2897727272727,
+        501.64630681818187
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        515.2376425855514,
+        289.9519961977187,
+        764.7623574144486,
+        502.0480038022814
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        514.7614503816794,
+        289.5472328244275,
+        765.2385496183206,
+        502.4527671755726
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        514.2816091954023,
+        289.139367816092,
+        765.7183908045977,
+        502.86063218390814
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        513.7980769230769,
+        288.7283653846155,
+        766.2019230769231,
+        503.27163461538464
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        513.3108108108108,
+        288.3141891891893,
+        766.6891891891892,
+        503.68581081081084
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        512.8197674418604,
+        287.89680232558146,
+        767.1802325581396,
+        504.10319767441865
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        512.3249027237354,
+        287.4761673151752,
+        767.6750972762646,
+        504.5238326848249
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        511.826171875,
+        287.05224609375006,
+        768.173828125,
+        504.94775390625006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        511.3235294117647,
+        286.62500000000006,
+        768.6764705882354,
+        505.37500000000006
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        510.81692913385825,
+        286.1943897637796,
+        769.1830708661417,
+        505.8056102362205
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        510.30632411067194,
+        285.76037549407124,
+        769.693675889328,
+        506.2396245059289
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        509.79166666666663,
+        285.32291666666674,
+        770.2083333333334,
+        506.67708333333337
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    },
+    {
+     "dets": [
+      {
+       "box": [
+        509.27290836653384,
+        284.8819721115538,
+        770.7270916334662,
+        507.1180278884463
+       ],
+       "class_id": 2,
+       "score": 0.9
+      }
+     ],
+     "ego_speed_ms": 2.0,
+     "speed_limit_ms": 13.9,
+     "obstacle_dist": null,
+     "lane_cross": null
+    }
+   ],
+   "expected": []
+  }
+ ]
+}
