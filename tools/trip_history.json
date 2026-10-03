@@ -1,0 +1,29 @@
+[
+  {
+    "timestamp": "2026-08-08 17:50:58",
+    "duration_s": 82.1,
+    "total_warnings": 9,
+    "solid_line_warnings": 4,
+    "collision_warnings": 2,
+    "urgent_collision_warnings": 2,
+    "score": 5.7,
+    "recommendations": [
+      "You had urgent collision warnings - increase following distance so you have more time to react.",
+      "Keep more space from the vehicle ahead to cut down on collision warnings.",
+      "Stay centered in your lane - you crossed solid lane markings during this trip."
+    ]
+  },
+  {
+    "timestamp": "2026-08-09 01:29:08",
+    "duration_s": 117.8,
+    "total_warnings": 7,
+    "solid_line_warnings": 0,
+    "collision_warnings": 1,
+    "urgent_collision_warnings": 1,
+    "score": 8.0,
+    "recommendations": [
+      "You had urgent collision warnings - increase following distance so you have more time to react.",
+      "Keep more space from the vehicle ahead to cut down on collision warnings."
+    ]
+  }
+]
