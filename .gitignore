@@ -1,0 +1,42 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Large binaries that get regenerated rather than versioned
+app/src/main/assets/*.tflite
+app/src/main/res/raw/*.wav
+
+# Generated evaluation output
+tools/real_eval/
+tools/replay_out/
+tools/onnx2tf_out/
+tools/*.onnx
+tools/calibration_image_sample_data_*.npy
+
+# Python side
+carlaenv/
+exportenv/
+__pycache__/
+*.pyc
+tools/.env
+
+# Local data and output files
+data/
+tmp/
+PROJECT_FLOW.html
+.venv/
+tools/lane_data/
+tools/raw/
+tools/sign_yolo_data/
+tools/onnx2tf_lane/
+tools/scnn_lane/
+app/build/
+tools/ufld_lane/weights/
+
